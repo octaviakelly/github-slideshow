@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to octaviakelly's slide!"
 ---
-This is octaviakelly's file.
+This is my awesome slide slide.
 Use the left arrow to go back!
 
 
